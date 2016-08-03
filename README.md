@@ -1,11 +1,11 @@
 # QUp Api
 Web api written in ASP.Net C# for quality assurance app - QUp
 
+Instructions:
 Build and run the solution.
-
 Swagger is included in this project and an api UI is displayed with the api documentation by navigating to localhost/swagger while running the application.
 
-Description of the QUp api:
+Description:
 
 Project: The top parent model with ProjectId, ProjectName and mapping to SprintModel
 
