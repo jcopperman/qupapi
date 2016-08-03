@@ -13,6 +13,7 @@ namespace QupApi.Models
 
         public string UserStory { get; set; }
 
+
         public ICollection<StatusModel> Statuses { get; set; }
     }
 }
