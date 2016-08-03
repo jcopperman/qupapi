@@ -15,6 +15,6 @@ Features: Child of Sprint with FeatureId, FeatureDescription, mappings to Sprint
 
 FeatureStory: Child of Features with FeatureStoryId, FeatureStory("AS A tester I WANT to add and edit Features SO THAT I can track acceptance criteria") with mapping to UserStoryModel - endpoint: /api/featurestory
 
-UserStory: Contains UserStoryId, UserStory("GIVEN I have created a sprint WHEN I add a new feature THEN that feature is included in that sprint) with mapping to StatusModel - endpoint: /api/userstory
+UserStory: Contains UserStoryId, UserStory("GIVEN I have created a sprint WHEN I add a new feature THEN that feature is included in that sprint") with mapping to StatusModel - endpoint: /api/userstory
 
 Status: Model for Statuses with StatusId and Status("Pass, Fail, Pending, etc) - endpoint: /api/status
