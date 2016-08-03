@@ -1,5 +1,5 @@
-# qupapi
-Web api for quality assurance app - QUp
+# QUp Api
+Web api written in ASP.Net C# for quality assurance app - QUp
 
 Build and run the solution.
 
