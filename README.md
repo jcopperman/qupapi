@@ -1,5 +1,5 @@
 # QUp Api
-ASP.Net C# webapi for quality assurance app - QUp
+ASP.Net C# webapi for quality assurance app - QUp - that facilates testing in a scrum environment
 
 Instructions:
 Build and run the solution.
